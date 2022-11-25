@@ -4,3 +4,4 @@ tmp_*
 model*
 *.pkl
 *.zip
+!resnet.pt
