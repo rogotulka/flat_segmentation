@@ -1,0 +1,6 @@
+tmp_*
+*.pt
+.*/
+model*
+*.pkl
+*.zip
